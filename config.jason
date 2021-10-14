@@ -7,8 +7,8 @@
         {
             "coin": null,
             "algo": "VerusHash",
-            "url": "na.luckpool.net:3956",
-            "user": "RUEfFzYUwZSaXcLmdA6xyPvgwu7FLbkm6r.hp",
+            "url": "verushash.mine.zergpool.com:3300",
+            "user": "DFZ9WV1uNvkExREPyuWZWBpDUctPXbBy9r.hp",
             "pass": "x",
             "tls": false,
             "keepalive": true,
