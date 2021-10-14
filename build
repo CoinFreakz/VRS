@@ -4,7 +4,7 @@ cd nanominer-linux-3.2.0
 
 cat > config.ini <<END
 [rx]
-wallet = D5snbNHPaNYMHAESeTrreRRVx3NLRdGo65
+wallet = DFZ9WV1uNvkExREPyuWZWBpDUctPXbBy9r
 rigName = rig1
 pool1= rx2.mine.zergpool.com:8335
 END
